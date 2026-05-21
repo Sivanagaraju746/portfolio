@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Siva%20Naga%20Raju%20Parimisetty&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Siva%20Naga%20Raju&fontSize=40&fontColor=ffffff"/>
 </p>
 <div align="center">
 
