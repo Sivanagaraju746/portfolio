@@ -7,9 +7,6 @@
 Full Stack AI/ML Engineer | GenAI | FastAPI | AWS | RAG | MLOps
 </h3>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Siva%20Naga%20Raju%20Parimisetty&fontSize=35&fontColor=ffffff"/>
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Engineer;Generative+AI+Developer;FastAPI+%7C+AWS+%7C+Kubernetes;LLM+%7C+RAG+%7C+LangChain;Open+Source+Contributor" />
 </p>
 ---
