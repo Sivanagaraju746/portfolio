@@ -24,12 +24,12 @@ I am a Full Stack AI/ML Engineer focused on building production-grade AI systems
 
 ## 👨‍💻 About Me
 
-- 🚀 Building enterprise-grade GenAI and RAG systems  
-- 🤖 Working with AI Agents, LangGraph, LangChain, and LLMOps  
-- ☁️ Experienced in AWS, Docker, Kubernetes, CI/CD, and MLOps  
-- ⚡ Specialized in FastAPI, Python APIs, vector databases, and ML deployment  
-- 🔥 Passionate about scalable AI infrastructure and real-world automation  
-
+- 🔭 I’m currently building enterprise-grade GenAI, RAG, and AI agent platforms
+- 🌱 I’m currently learning advanced LLMOps, LangGraph, Kubernetes, and scalable AI deployment
+- 📚 I work with production AI systems using Python, FastAPI, AWS, LangChain, OpenAI APIs, Docker, and Kubernetes
+- 👯 I’m open to collaborating on AI/ML, GenAI, NLP, Computer Vision, RAG, and MLOps projects
+- 🥅 Current Goals: Build stronger portfolio projects in GenAI, RAG, AI Agents, FastAPI ML APIs, AWS MLOps, and healthcare AI
+- ⚡ Fun fact: I love building AI systems that solve real-world problems
 ---
 
 ## 🌐 Connect With Me
@@ -108,14 +108,12 @@ I am a Full Stack AI/ML Engineer focused on building production-grade AI systems
 
 ---
 
-## 📌 Recommended Repositories
 
-Create and pin these repositories:
 
-```text
-enterprise-genai-assistant
-rag-document-qa-system
-ai-agent-framework
-fastapi-ml-inference-platform
-aws-mlops-pipeline
-healthcare-risk-prediction-api
+<div align="center">
+
+### Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer"/>
+
+</div>
