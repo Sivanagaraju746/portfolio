@@ -3,8 +3,6 @@
 </p>
 <div align="center">
 
-# 🚀 Siva Naga Raju Parimisetty
-
 ### Full Stack AI/ML Engineer | GenAI | FastAPI | AWS | RAG | MLOps
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Developer;FastAPI+%7C+AWS+%7C+Kubernetes;LLM+%7C+RAG+%7C+LangChain;Building+Production+AI+Systems" />
