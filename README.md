@@ -1,10 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Siva%20Naga%20Raju&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Siva%20Naga%20Raju%20Parimisetty&fontSize=35&fontColor=ffffff"/>
 </p>
 <div align="center">
-
 ### Full Stack AI/ML Engineer | GenAI | FastAPI | AWS | RAG | MLOps
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Developer;FastAPI+%7C+AWS+%7C+Kubernetes;LLM+%7C+RAG+%7C+LangChain;Building+Production+AI+Systems" />
 
 </div>
