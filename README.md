@@ -1,119 +1,88 @@
-<div align="center">
+# Siva Naga Raju Parimisetty
 
-# Hi there, I'm Siva Naga Raju Parimisetty 👋
+[View portfolio](https://sivanagaraju746.github.io/portfolio/) · [Download resume](./Siva_Naga_Raju_AI_ML.pdf)
 
-### Full Stack AI/ML Engineer | GenAI | FastAPI | AWS | RAG | MLOps
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;Generative+AI+%7C+RAG+%7C+AI+Agents;FastAPI+%7C+AWS+%7C+Docker+%7C+Kubernetes;LLMOps+%7C+MLOps+%7C+Vector+Databases" />
+### AI/ML & Generative AI Engineer | Python & Java
 
-<br/>
+I build production LLM applications, secure retrieval-augmented generation (RAG) pipelines, agent workflows, and model inference APIs. My experience spans financial services, healthcare, and GPU software applications, with a foundation in Java backend engineering and full stack development.
 
-<img src="https://komarev.com/ghpvc/?username=Sivanagaraju746&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/Sivanagaraju746?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/README-100%25-blue?style=for-the-badge"/>
+[LinkedIn](https://www.linkedin.com/in/siva-naga-raju-parimisetty/) · [Email](mailto:sivanagarajuparimisetty@gmail.com)
 
-</div>
+## Engineering Focus
 
----
+- **Generative AI & agents:** LLM applications, prompt engineering, LangChain/LangGraph workflows, tool calling, and LoRA/QLoRA fine-tuning.
+- **Retrieval & NLP:** Embeddings, hybrid search, reranking, document retrieval, and clinical entity extraction.
+- **Backend engineering:** Python/FastAPI and Java/Spring Boot services, asynchronous APIs, authentication, caching, and database performance.
+- **MLOps & evaluation:** Versioned model and prompt delivery, CI/CD, groundedness and retrieval evaluation, drift monitoring, and observability.
+- **Secure AI systems:** Access-aware retrieval, RBAC, PII/PHI redaction, prompt validation, and guardrails.
 
-## 💡 Professional Summary
+## Technical Skills
 
-I am a Full Stack AI/ML Engineer focused on building production-grade AI systems, GenAI platforms, RAG pipelines, scalable APIs, and cloud-native ML applications using Python, FastAPI, AWS, Docker, Kubernetes, LangChain, and OpenAI APIs.
+| Area | Technologies & Skills |
+| --- | --- |
+| Languages | Python, Java, SQL |
+| Generative AI & Agents | LLMs, prompt engineering, RAG, tool calling, LangChain, LangGraph, LlamaIndex, LoRA/QLoRA, PEFT |
+| Retrieval & NLP | Embeddings, hybrid search, reranking, Pinecone, FAISS, OpenSearch, Sentence Transformers, Hugging Face Transformers, spaCy, named entity recognition (NER) |
+| Machine Learning & Data | Scikit-learn, XGBoost, LightGBM, Logistic Regression, SHAP, Pandas, NumPy, Spark/PySpark |
+| Backend & APIs | FastAPI, Flask, Spring Boot, Spring MVC, Spring Batch, REST APIs, Pydantic |
+| Applications & Databases | React, Node.js, Redis, PostgreSQL, MongoDB, DB2, Oracle, Azure SQL |
+| AWS | Bedrock, SageMaker, ECS Fargate, Lambda, S3, API Gateway, CloudWatch |
+| Azure & Google Cloud | Azure OpenAI, Azure DevOps, GCP Vertex AI |
+| Deployment & MLOps | Docker, Kubernetes, MLflow, DVC, Jenkins, Maven, Bamboo, Pivotal Cloud Foundry |
+| Evaluation & Observability | LangSmith, OpenTelemetry, Prometheus, Evidently AI, structured logging, Splunk |
+| Security | JWT/OAuth2, RBAC, PII/PHI/PCI redaction, prompt validation, access-aware retrieval, audit logging |
+| Enterprise Integration | SOAP/REST, IBM Financial Transaction Manager, WebSphere MQ, JDBC, Dropwizard |
 
----
+## Professional Experience
 
-## 👨‍💻 About Me
+### Morgan Stanley — Gen AI Engineer / Developer
+**Mar 2025 – Present · Chicago, IL**
 
-- 🔭 I’m currently building enterprise-grade GenAI, RAG, and AI agent platforms
-- 🌱 I’m currently learning advanced LLMOps, LangGraph, Kubernetes, and scalable AI deployment
-- 📚 I work with production AI systems using Python, FastAPI, AWS, LangChain, OpenAI APIs, Docker, and Kubernetes
-- 👯 I’m open to collaborating on AI/ML, GenAI, NLP, Computer Vision, RAG, and MLOps projects
-- 🥅 Current Goals: Build stronger portfolio projects in GenAI, RAG, AI Agents, FastAPI ML APIs, AWS MLOps, and healthcare AI
-- ⚡ Fun fact: I love building AI systems that solve real-world problems
----
+- Build summarization and retrieval microservices with Python, FastAPI, and AWS ECS Fargate for risk and research dashboards.
+- Develop portfolio assistant workflows using LangChain/LangGraph, hybrid retrieval, reranking, and layered guardrails.
+- Implement access-aware retrieval, authenticated agent tool APIs, and LangSmith evaluation pipelines.
+- Automate model and prompt delivery with MLflow, DVC, CI/CD, Docker, and Kubernetes.
 
-## 🌐 Connect With Me
+### UnitedHealth Group — AI/ML Engineer
+**Aug 2024 – Feb 2025 · Chicago, IL**
 
-<p>
-<a href="https://linkedin.com/in/siva-naga-raju-parimisetty">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+- Built healthcare assistants with Python, GPT-3.5, prompt engineering, and RAG.
+- Improved retrieval using chunking, metadata filters, Sentence Transformers, FAISS/Pinecone, and reranking.
+- Migrated 12+ scoring pipelines to versioned Python microservices on AWS SageMaker and API Gateway.
+- Developed clinical entity extraction and inference services with PHI redaction, RBAC, audit logging, and drift monitoring.
 
-<a href="mailto:sivaparimisetty849@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+### NVIDIA Graphics Pvt. Ltd. — Application Engineer
+**Aug 2020 – Jan 2023 · Bengaluru, India**
 
-<a href="https://github.com/Sivanagaraju746">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+- Built React/Node.js applications backed by Python FastAPI services for graphics configuration workflows.
+- Developed APIs for shader configuration, driver status, and GPU telemetry.
+- Improved API performance through Redis caching and batched GPU metadata queries.
 
----
+### Kloc Technologies — Associate Software Engineer
+**Apr 2018 – Jul 2020 · Bengaluru, India**
 
-## ⚙️ Tech Stack
+- Developed enterprise Java applications and REST microservices using Spring MVC, Spring Boot, Spring Batch, and Dropwizard.
+- Integrated financial transaction systems, relational databases, MongoDB, and WebSphere MQ.
+- Automated builds and releases using Maven, Jenkins, Bamboo, GitHub, and Azure DevOps.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,fastapi,flask,django,react,nodejs,aws,docker,kubernetes,postgres,mongodb,redis,git,github,githubactions,linux,vscode" />
-</p>
+## Selected Results
 
----
+| Work | Result |
+| --- | --- |
+| Financial research and retrieval services | Reduced analyst query time by **40%** |
+| Asynchronous API I/O and PostgreSQL connection pooling | Reduced tail latency by **180 ms (37%)** |
+| Healthcare assistant retrieval improvements | Improved answer accuracy by **30%** |
+| Healthcare model delivery automation | Increased release velocity by **40%** |
+| Vector compression and indexing | Reduced infrastructure costs by **25%**, maintaining sub-second query latency |
+| GPU graphics configuration workflows | Reduced engineer time-on-task by **35%** |
+| GPU metadata APIs | Reduced median latency from **240 ms to 95 ms** (approximately **60%**) |
 
-## 🤖 AI / ML / GenAI
+## Education
 
-<p>
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LlamaIndex-673AB7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
-<img src="https://img.shields.io/badge/RAG-00C7B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Search-FF6F00?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Portfolio Projects
-
-| Project | Tech Stack | Description |
-|---|---|---|
-| **Enterprise GenAI Assistant** | FastAPI, LangChain, OpenAI, AWS, Pinecone | Secure enterprise assistant with RAG, APIs, and deployment |
-| **RAG Document QA System** | Python, FAISS, OpenAI, Streamlit, PostgreSQL | PDF/document question-answering system with citations |
-| **AI Agent Framework** | LangGraph, FastAPI, Tools, Redis, OpenAI | Autonomous workflow agents with tool calling and memory |
-| **FastAPI ML Inference Platform** | FastAPI, Docker, SageMaker, Prometheus | Production-grade ML model serving APIs |
-| **AWS MLOps Pipeline** | AWS CodePipeline, SageMaker, Docker, GitHub Actions | Automated ML training, deployment, and monitoring |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sivanagaraju746&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sivanagaraju746&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivanagaraju746&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- **Master’s in Computer Science** — Lewis University, Romeoville, IL · 2024
+- **Bachelor’s in Electronics and Communication Engineering** — Gudlavalleru Engineering College · 2018
 
 ---
 
-## 🏆 Impact Highlights
-
-- ✅ Reduced ML inference latency by **56%**
-- ✅ Reduced API response latency by **60%**
-- ✅ Built enterprise-grade RAG systems
-- ✅ Designed scalable FastAPI AI microservices
-- ✅ Deployed AI services on AWS ECS and SageMaker
-- ✅ Automated CI/CD pipelines for ML deployments
-
----
-
-
-
-<div align="center">
-
-### Thanks for visiting my profile ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer"/>
-
-</div>
+Interested in collaborating on Generative AI, RAG, agent workflows, Python backend services, and MLOps.
