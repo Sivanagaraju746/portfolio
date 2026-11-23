@@ -78,6 +78,16 @@ I build production LLM applications, secure retrieval-augmented generation (RAG)
 | GPU graphics configuration workflows | Reduced engineer time-on-task by **35%** |
 | GPU metadata APIs | Reduced median latency from **240 ms to 95 ms** (approximately **60%**) |
 
+
+## Personal Projects
+
+These runnable portfolio prototypes use fictional documents or synthetic data. They are separate from my professional employment.
+
+| Project | Implementation | Source |
+| --- | --- | --- |
+| Access Controlled Document Q&A | FastAPI, SQLite, TF-IDF, role-filtered retrieval, cited excerpts, sample redaction, nine automated tests | [Code and setup](https://github.com/Sivanagaraju746/portfolio/tree/main/projects/document-qa) |
+| ML Prediction API | Scikit-learn, FastAPI, Pydantic, synthetic-data training, versioned JSON artifacts, single/batch inference, ten automated tests | [Code and setup](https://github.com/Sivanagaraju746/portfolio/tree/main/projects/ml-prediction-api) |
+
 ## Education
 
 - **Master’s in Computer Science** — Lewis University, Romeoville, IL · 2024

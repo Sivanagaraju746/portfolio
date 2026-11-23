@@ -1,0 +1,17 @@
+{
+  "model_version": "1.0.0",
+  "data_source": "synthetic_demo_only",
+  "seed": 42,
+  "train_rows": 1800,
+  "test_rows": 600,
+  "metrics": {
+    "roc_auc": 0.7828721139675782,
+    "accuracy_at_0_5": 0.7233333333333334,
+    "brier_score": 0.1741047934311968
+  },
+  "limitations": [
+    "Synthetic held-out evaluation, not evidence of real customer performance.",
+    "Threshold 0.5 is a demo choice, not a validated business decision.",
+    "Aggregate feature mean shifts are descriptive and are not proof of model drift."
+  ]
+}

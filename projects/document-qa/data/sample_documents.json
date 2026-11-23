@@ -1,0 +1,4 @@
+[
+  {"title":"Portfolio review policy","text":"Portfolio risk reports require analyst review and risk committee approval. Research summaries must reference the underlying source and document the review date.","allowed_roles":["analyst"]},
+  {"title":"HR leave policy","text":"Employees request annual leave through the HR portal. Managers review leave requests before approval. Questions should be sent to hr@example.com.","allowed_roles":["hr"]}
+]
